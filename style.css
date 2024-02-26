@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: powderblue;
+    background-size: cover;
+}
+.LOGIN {
+    height: 600px;
+    width: 600px;
+    background-color: transparent;
+    border: 2px solid whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.LOGIN h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 90px;
+}
+.entry{
+    height: 40px;
+    width: 410px;
+    border-radius: 1rem;
+    margin-top: 10px;
+}
+.sign-in{
+    margin-top: 10px;
+    height: 25px;
+    width: 110px;
+    margin-left: 160px;
+    border-radius: 10px;
+    background-color: burlywood;
+    font-size: 1rem;
+}
+.sign-in:hover{
+    background-color: aliceblue;
+    color: black;
+}
+a{
+    margin-top: 50px;
+    margin-left: 160px;
+    font-size: 1rem;
+}
+.abc{
+    margin-top: 10px;
+}
